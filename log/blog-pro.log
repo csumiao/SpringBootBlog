@@ -1,0 +1,11 @@
+2018-06-03 20:01:15.822  INFO 8776 --- [restartedMain] com.miao.blog.BlogApplication            : Starting BlogApplication on USER-PC with PID 8776 (started by USER in D:\IDEA工作区\blog)
+2018-06-03 20:01:15.822  INFO 8776 --- [restartedMain] com.miao.blog.BlogApplication            : The following profiles are active: pro
+2018-06-03 20:01:18.027  WARN 8776 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-06-03 20:01:18.378  INFO 8776 --- [restartedMain] com.miao.blog.BlogApplication            : Started BlogApplication in 2.801 seconds (JVM running for 3.454)
+2018-06-03 20:02:12.019  INFO 18320 --- [restartedMain] com.miao.blog.BlogApplication            : Starting BlogApplication on USER-PC with PID 18320 (started by USER in D:\IDEA工作区\blog)
+2018-06-03 20:02:12.020  INFO 18320 --- [restartedMain] com.miao.blog.BlogApplication            : The following profiles are active: pro
+2018-06-03 20:02:14.133  WARN 18320 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-06-03 20:02:14.485  INFO 18320 --- [restartedMain] com.miao.blog.BlogApplication            : Started BlogApplication in 2.717 seconds (JVM running for 3.345)
+2018-06-03 20:08:32.407  INFO 17820 --- [restartedMain] com.miao.blog.BlogApplication            : Starting BlogApplication on USER-PC with PID 17820 (started by USER in D:\IDEA工作区\blog)
+2018-06-03 20:08:32.407  INFO 17820 --- [restartedMain] com.miao.blog.BlogApplication            : The following profiles are active: pro
+2018-06-03 20:08:34.897  INFO 17820 --- [restartedMain] com.miao.blog.BlogApplication            : Started BlogApplication in 2.744 seconds (JVM running for 3.387)
